@@ -239,8 +239,8 @@ input, textarea {
   background-color: #dd2333;
   color: white;
   text-align: center;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding: 15px;
+    
 }
 .complects-header {
     font-size: 30px;
@@ -743,7 +743,7 @@ body.lb-disable-scrolling {
   #main_header nav {
     float: right;
     margin: 0;
-    width: 520px; }
+    width: 420px; }
     #main_header nav .active {
       display: block; }
     #main_header nav ul li {
@@ -881,8 +881,8 @@ body.lb-disable-scrolling {
     display: none; }
   #main_header nav {
     float: right;
-    margin: 0px 40px 0px 0px;
-    width: 650px; }
+    margin: 0px 0px 0px 0px;
+    width: 550px; }
     #main_header nav .active {
       display: block; }
     #main_header nav ul li {
